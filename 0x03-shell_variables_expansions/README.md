@@ -6,3 +6,4 @@ Shell variables expansions
 3-Number of directories in path
 4-Global variables
 6-Creating new local variable
+7-Creating a global variable
