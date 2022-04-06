@@ -5,3 +5,4 @@ My Shell redirections readme
 4-Last lines
 5-First lines
 6-Third line
+7-File
