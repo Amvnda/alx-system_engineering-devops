@@ -16,3 +16,4 @@ Shell variables expansions
 12-Letter combinations except oo
 13-Print float
 15-Encoding and decoding using rot13
+16-Printing every other line from the input, starting with the first line
