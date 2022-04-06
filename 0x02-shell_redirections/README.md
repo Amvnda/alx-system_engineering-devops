@@ -4,3 +4,4 @@ My Shell redirections readme
 3-Two files
 4-Last lines
 5-First lines
+6-Third line
