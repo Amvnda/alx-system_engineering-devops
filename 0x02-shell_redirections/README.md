@@ -17,3 +17,4 @@ My Shell redirections readme
 16-Whatsnext
 17-Hidethisword
 18-Letteronly
+19-AZ
