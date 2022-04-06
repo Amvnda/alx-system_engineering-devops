@@ -8,3 +8,4 @@ My Shell redirections readme
 7-File
 8-Cwd state
 9-Duplicate last line
+10-No more js
