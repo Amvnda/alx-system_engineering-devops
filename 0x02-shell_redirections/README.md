@@ -22,3 +22,4 @@ My Shell redirections readme
 21-Reverse
 22-Users and homes
 100-Empty casks
+101-Gifs
