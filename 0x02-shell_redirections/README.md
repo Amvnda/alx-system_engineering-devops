@@ -21,3 +21,4 @@ My Shell redirections readme
 20-Hiago
 21-Reverse
 22-Users and homes
+100-Empty casks
