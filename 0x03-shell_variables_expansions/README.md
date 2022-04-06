@@ -11,3 +11,4 @@ Shell variables expansions
 9-Divide and rule
 10-Love exponent breath
 11-Binary to Decimal
+11-Binary to decimal
