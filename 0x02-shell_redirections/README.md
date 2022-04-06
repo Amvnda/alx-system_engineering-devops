@@ -24,3 +24,4 @@ My Shell redirections readme
 100-Empty casks
 101-Gifs
 102-Acrostic
+103-The biggest fan
