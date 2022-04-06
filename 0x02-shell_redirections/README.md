@@ -16,3 +16,4 @@ My Shell redirections readme
 15-Countthatword
 16-Whatsnext
 17-Hidethisword
+18-Letteronly
