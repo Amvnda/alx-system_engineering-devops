@@ -12,3 +12,5 @@ Shell variables expansions
 10-Love exponent breath
 11-Binary to Decimal
 11-Binary to decimal
+12-Letter combination except oo
+12-Letter combinations except oo
