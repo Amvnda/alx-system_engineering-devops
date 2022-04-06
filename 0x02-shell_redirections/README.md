@@ -7,3 +7,4 @@ My Shell redirections readme
 6-Third line
 7-File
 8-Cwd state
+9-Duplicate last line
