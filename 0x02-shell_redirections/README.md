@@ -23,3 +23,4 @@ My Shell redirections readme
 22-Users and homes
 100-Empty casks
 101-Gifs
+102-Acrostic
