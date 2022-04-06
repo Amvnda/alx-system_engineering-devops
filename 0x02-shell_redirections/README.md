@@ -6,3 +6,4 @@ My Shell redirections readme
 5-First lines
 6-Third line
 7-File
+8-Cwd state
